@@ -1,4 +1,4 @@
-// Path: scripts.js
+
 // Select the navigation bar
 const navbar = document.querySelector('.navbar');
 
